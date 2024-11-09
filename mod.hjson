@@ -1,0 +1,8 @@
+displayName: "Mindustry Tweaks"
+author: "Kalpyy"
+name: "mindustry-tweaks"
+main: ""
+description: "A mod that tweaks some aspects of Mindustry, and adds some vanilla-like content"
+version: "0.1"
+
+minGameVersion: 146
